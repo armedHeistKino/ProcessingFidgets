@@ -7,12 +7,14 @@
 
 ### 2D_Lagrangian_Double_Pendulum
 유명한 카오스계 문제인 이중 진자의 운동방정식을 라그랑지언으로 유도후 시뮬레이션 합니다.
+https://youtube.com/shorts/uie1Du4iyw8?feature=share
 
 ### 2D_Lagrangian_Pendulum_Resistive_Force
 라그랑지언에서 비보존력을 구현하는 방법에 두 가지가 있습니다. 첫 번째는 감쇄상수(Damping constant)를 사용하는 방식, 두 번재는 라그랑지언에 비보존력을 고려하여 식을 세우는 방식입니다.
 전자는 구현이 간단하지만 매우 단순한 모델이기 때문에, 실제 물리 상수를 사용하고자 한다면 후자로 구현해야 합니다. 해당하는 시뮬레이션은 후자의 방식으로 구현되었고, 사용되는 물리상수는 프로그램 제일 앞에 선언되어 있습니다.
-
 그러나, 시뮬레이션 세계와 실제 세계간 값의 괴리로 인해 실제 상수값을 사용하면 잘 동작하지 않을 수 있습니다. 향후 개선 과제입니다.
+https://youtube.com/shorts/xOQXJDn2FeU?feature=share
 
 ### 3D_Lagrangian_Pendulum
 이차원에서의 일반 좌표계에 각도를 하나 더 도입해 삼차원에서의 추 각도를 계산합니다. 
+https://youtube.com/shorts/uPvPE1WobjU?feature=share
